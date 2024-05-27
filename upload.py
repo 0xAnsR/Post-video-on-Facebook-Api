@@ -1,4 +1,4 @@
-# prompt: write a python script to upload video on meta using video url
+ # python script to upload video on meta using video url
 
 import requests
 import json
